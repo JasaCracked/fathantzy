@@ -1,11 +1,3 @@
-{
-  "keys": [
-    {
-      "key": "0817",
-      "numbers": [
-        "6283865233188",
-        "6289506137590"
-      ]
-    }
-  ]
-}
+global.username = "LoxaszV4"
+global.password = "LoxasV4"
+global.konek = "6283865233188"
